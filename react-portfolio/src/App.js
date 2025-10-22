@@ -1,10 +1,10 @@
 import React from "react";
-import MoodTracker from "./MoodTracker";
+import ToggleButton from "./ToggleButton";
 
 function App() {
   return (
     <div>
-      <MoodTracker />
+      <ToggleButton />
     </div>
   );
 }
