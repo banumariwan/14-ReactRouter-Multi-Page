@@ -1,10 +1,10 @@
 import React from "react";
-import Counter from "./Counter";
+import MoodTracker from "./MoodTracker";
 
 function App() {
   return (
     <div>
-      <Counter />
+      <MoodTracker />
     </div>
   );
 }
