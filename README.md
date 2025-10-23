@@ -1,4 +1,4 @@
-# Day 4: Emoji Mood Tracker 🎭
+# Poject 5: Emoji Mood Tracker 🎭
 
 ## 🚀 Project Overview
 An interactive mood tracking application built with React that demonstrates advanced event handling and multiple useState hooks. Click emojis to track your daily moods with visual feedback.
