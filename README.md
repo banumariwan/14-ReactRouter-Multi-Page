@@ -1,38 +1,25 @@
-# Poject 5: Emoji Mood Tracker 🎭
+# 🚀 React Router Multi-Page Application
 
-## 🚀 Project Overview
-An interactive mood tracking application built with React that demonstrates advanced event handling and multiple useState hooks. Click emojis to track your daily moods with visual feedback.
+A modern, responsive multi-page React application demonstrating client-side routing with React Router DOM. This project showcases how to create a seamless single-page application with multiple views and navigation.
 
-## ✨ Features
-- **Interactive emoji buttons** with click events
-- **Multiple useState hooks** for managing different states
-- **Visual feedback** on selection
-- **Mood tracking** with counters
-- **Responsive design**
+## 📋 Project Overview
+
+This React application implements a multi-page website with client-side routing, allowing users to navigate between different pages without full page reloads. The app features a clean navigation bar and three main pages: Home, About, and Contact.
 
 ## 🛠️ Technologies Used
-- React
-- JavaScript (ES6+)
-- useState Hook
-- Event Handling
-- CSS-in-JS Styling
 
-## 🎯 Learning Objectives
-- **Advanced event handling** in React
-- **Multiple state variables** with useState
-- **Interactive UI components**
-- **State management** for complex interactions
+- **React** - Frontend library for building user interfaces
+- **React Router DOM** - Client-side routing for single-page applications
+- **JavaScript (ES6+)** - Programming language
+- **CSS3** - Styling and layout
+- **HTML5** - Markup structure
 
-## 🚀 Quick Start
-```bash
-# Clone this repository
-git clone https://github.com/banumariwan/day4-event-handling.git
+## 🎯 Features
 
-# Navigate to project directory
-cd day4-event-handling
+- ✅ **Client-side Routing** - Smooth navigation without page reloads
+- ✅ **Responsive Design** - Works on desktop and mobile devices
+- ✅ **Clean Navigation** - Persistent navbar across all pages
+- ✅ **Modern React Patterns** - Functional components and hooks
+- ✅ **SEO Friendly** - Proper routing structure for search engines
 
-# Install dependencies
-npm install
-
-# Start development server
-npm start
+## 📁 Project Structure
